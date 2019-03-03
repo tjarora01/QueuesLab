@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/LAnixMessagingQueues.dir/client.cpp.o CMakeFiles/LAnixMessagingQueues.dir/LaQueue.cpp.o CMakeFiles/LAnixMessagingQueues.dir/PQueue.cpp.o CMakeFiles/LAnixMessagingQueues.dir/server.cpp.o CMakeFiles/LAnixMessagingQueues.dir/lqueue.cpp.o  -o LAnixMessagingQueues 

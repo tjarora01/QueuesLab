@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanmayarora/CLionProjects/LAnixMessagingQueues/PQueue.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+cstdlib
+-
+PQueue.h
+/Users/tanmayarora/CLionProjects/LAnixMessagingQueues/PQueue.h
+
+/Users/tanmayarora/CLionProjects/LAnixMessagingQueues/PQueue.h
+
